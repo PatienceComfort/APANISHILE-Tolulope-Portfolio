@@ -1,0 +1,35 @@
+body{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+.navbar{
+	border-radius:0px;
+	margin-bottom:0;
+	background-color:rgba(0,0,0,0.5);
+
+}
+.jumbotron{
+	background-color: #493780;
+}
+.jumbotron h1{
+	color:#fba914;	
+}
+h2{
+	color:#044a2c;
+}
+img{
+	width:175px;
+	max-width: 100%;
+	height: auto;
+	border:1px solid black;
+	border-radius: 5px;
+}
+#projects p{
+	width:175px;
+	max-width: auto;
+	height: auto;
+}
+i{
+	font-size: 200px;
+}
